@@ -1,1 +1,1 @@
-# PDS_Excercise_Numpy_Vectors
+# PDS_Exercise_Numpy_Vectors
