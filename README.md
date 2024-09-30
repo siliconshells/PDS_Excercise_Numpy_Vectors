@@ -1,2 +1,2 @@
 # PDS Exercise on Numpy Vectors
-This assignment is submitted for the Practical Data Science Class.
+This project is in fulfillment of a Practical Data Science class assignment.
